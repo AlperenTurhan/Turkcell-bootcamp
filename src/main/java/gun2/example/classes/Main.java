@@ -1,6 +1,6 @@
-package org.example;
+package gun2.example.classes;
 
-import java.util.Objects;
+import gun2.example.classes.CustomerManager;
 
 public class Main {
     public static void main(String[] args) {

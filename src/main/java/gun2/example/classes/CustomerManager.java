@@ -1,4 +1,4 @@
-package org.example;
+package gun2.example.classes;
 
 public class CustomerManager {
     public void Add(){
